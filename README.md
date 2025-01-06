@@ -8,6 +8,10 @@ data.
 
 <img src="./man/figures/Figure1.png" width="100%" style="display: block; margin: auto;" />
 
+We are preparing to release an upgraded version of scPagwas, named scPagwas2, which introduces enhanced methods for calculating genetically associated genes. By incorporating extensive random calculations, this version offers improved result stability. Additionally, we have addressed issues with synchronizing results across single-cell data and cell-type data. Please note that scPagwas2 requires the use of the scPagwas_main2 function to replace the original scPagwas_main.
+
+To accommodate the substantial memory demands of single-cell data calculations in R, we have developed a Python version, scPagwas_py (https://github.com/dengchunyu/scPagwas_py)[https://github.com/mayunlong89/scPagwas_py], fully synchronized with scPagwas2.0. We will continue to provide updates to further enhance computational efficiency.
+
 Please cite this article in press as: Ma et al.,Polygenic regression
 uncovers trait-relevant cellular contexts through pathway activation
 transformation of single-cell RNA sequencing data,Cell Genomics
