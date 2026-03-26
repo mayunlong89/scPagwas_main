@@ -1,4 +1,19 @@
-# About scPagwas
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/mayunlong89/scPagwas_main/blob/main/figure/sc-Pagwas_logo.png" width="250">
+    </td>
+    <td>
+      <h1>scPagwas</h1>
+      <p>A scalable framework for identifying trait-relevant cell types or states by integrating single-cell transcriptomic data with GWAS data</p>
+    </td>
+  </tr>
+</table>
+
+<!-- badges: start -->
+<!-- badges: end -->
 
 **scPagwas** employs a polygenic regression model to prioritize a set of
 trait-relevant genes and uncover trait-relevant cell subpopulations by
